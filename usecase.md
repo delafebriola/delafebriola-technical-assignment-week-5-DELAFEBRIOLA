@@ -1,4 +1,5 @@
 #Usecase Sensor DHT11
+
 1. Ketika sensor berada dalam keadaan suhu ruangan normal maka output yang dihasilkan sebagai berikut:
 ![WhatsApp Image 2022-07-17 at 15 02 38](https://user-images.githubusercontent.com/108211172/179391879-aa21d999-935b-467e-957d-87a6707584b6.jpeg)
 
